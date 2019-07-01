@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-04-reader/static/css/main.2cce8147.chunk.css",
-    "main.js": "/goit-react-hw-04-reader/static/js/main.d3ced3a1.chunk.js",
-    "main.js.map": "/goit-react-hw-04-reader/static/js/main.d3ced3a1.chunk.js.map",
-    "runtime~main.js": "/goit-react-hw-04-reader/static/js/runtime~main.860f1cd1.js",
-    "runtime~main.js.map": "/goit-react-hw-04-reader/static/js/runtime~main.860f1cd1.js.map",
-    "static/js/2.b41502e9.chunk.js": "/goit-react-hw-04-reader/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/goit-react-hw-04-reader/static/js/2.b41502e9.chunk.js.map",
+    "main.js": "/goit-react-hw-04-reader/static/js/main.1dae7441.chunk.js",
+    "main.js.map": "/goit-react-hw-04-reader/static/js/main.1dae7441.chunk.js.map",
+    "reader-page.css": "/goit-react-hw-04-reader/static/css/reader-page.befa291d.chunk.css",
+    "reader-page.js": "/goit-react-hw-04-reader/static/js/reader-page.ada8b486.chunk.js",
+    "reader-page.js.map": "/goit-react-hw-04-reader/static/js/reader-page.ada8b486.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-04-reader/static/js/runtime~main.0e1b6b90.js",
+    "runtime~main.js.map": "/goit-react-hw-04-reader/static/js/runtime~main.0e1b6b90.js.map",
+    "static/css/3.41b4379f.chunk.css": "/goit-react-hw-04-reader/static/css/3.41b4379f.chunk.css",
+    "static/js/3.cfba9b10.chunk.js": "/goit-react-hw-04-reader/static/js/3.cfba9b10.chunk.js",
+    "static/js/3.cfba9b10.chunk.js.map": "/goit-react-hw-04-reader/static/js/3.cfba9b10.chunk.js.map",
     "index.html": "/goit-react-hw-04-reader/index.html",
-    "precache-manifest.10b26b34070fe8fcfa149b685efd8d60.js": "/goit-react-hw-04-reader/precache-manifest.10b26b34070fe8fcfa149b685efd8d60.js",
+    "precache-manifest.995c0fefc84ccb36b739712027622e63.js": "/goit-react-hw-04-reader/precache-manifest.995c0fefc84ccb36b739712027622e63.js",
     "service-worker.js": "/goit-react-hw-04-reader/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/goit-react-hw-04-reader/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/goit-react-hw-04-reader/static/media/logo.5d5d9eef.svg"
+    "static/css/3.41b4379f.chunk.css.map": "/goit-react-hw-04-reader/static/css/3.41b4379f.chunk.css.map",
+    "static/css/reader-page.befa291d.chunk.css.map": "/goit-react-hw-04-reader/static/css/reader-page.befa291d.chunk.css.map"
   }
 }
